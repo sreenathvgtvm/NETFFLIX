@@ -1,0 +1,473 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.intro{
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),  url("file:///C:/Users/ashik/Desktop/web%20site/NEXFLIX/img/IN-en-20220711-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+     width: 100%;
+     height: 734px;
+     
+     
+}
+.heder{
+    float: left;
+    position: absolute;
+    width: 100%;
+    height: 100px;
+   
+}
+.lefthead{
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+.righthead{
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+.toplogo{
+    float: left;
+   
+    margin-top: -11px;
+    margin-left: 20px;
+    
+}
+.righthead select{
+
+    margin-top: 30px;
+    margin-left: 450px;
+    padding-left: 10px;
+    height: 36px;
+    width: 93.2px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.sub{
+    margin-left: 30px;
+    width: 95px;
+    height: 37px;
+    background-color: red;
+    color: white;
+    align-items: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.sub:hover
+{
+    cursor: pointer;
+
+}
+.introh{
+    float: left;
+    margin-top: 80px;
+    width: 100%;
+    height: 400px;
+    
+
+}
+
+.heading1{
+    padding-top: 160px;
+    color: white;
+    text-align: center;
+    font-size:  64px;
+    font-weight: 700;
+    
+    font-family: Arial, Helvetica, sans-serif  
+}
+.heading2{
+    padding-top: 7px;
+    color: white;
+    text-align: center;
+    font-size:  28px;
+    font-weight: 0;
+    
+    font-family: Arial, Helvetica, sans-serif  
+}
+.heading3{
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+    font-size:  19px;
+    font-weight: 100;
+    
+    font-family: Arial, Helvetica, sans-serif  
+}
+.midbar{
+    float: left;
+    width: 720px;
+    height: 75px;
+    margin-top: 20px;
+    margin-left: 395px;
+   
+}
+.midbar input[type=text]{
+    border: none;
+    float: left;
+    width:71%;
+    height:64px;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+.midbutton{
+    border: none;
+    margin-top: -74px;
+    margin-left: 517px;
+    float: left;
+    width: 30%;
+    height: 75px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+}
+.midbutton:hover{
+    cursor: pointer;
+
+}
+.break{
+    
+    width: 100%;
+    height: 10px;
+    background-color: rgb(78, 75, 75);
+}
+.body1{
+    float: left;
+    width: 100%;
+    height: 450px;
+    background-color: black;
+}
+.lbody1{
+    float: left;
+    height: 350px;
+    width: 50%;
+
+}
+.rbody1{
+    float: left;
+    height: 350px;
+    width: 50%;
+
+}
+.b1heading1
+{
+    margin-top: 140px;
+    margin-left: 165px;
+    font-size: 52px;
+    font-weight: 600;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif  
+
+}
+.b1heading2
+{
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 170px;
+    font-size: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+
+}
+.body2{
+    display: flex;
+    width: 100%;
+    height: 450px;
+    background-color: black;
+}
+.lbody2{
+   
+    padding-top: 0px;
+    padding-left: 0px;
+    width: 50%;
+    height: 450px;
+    background-color: black;
+}
+.body2img{
+    margin-top: 15px;
+    margin-left: 200px;
+}
+.rbody2{
+    
+    width: 50%;
+    height: 450px;
+    background-color: black;
+}
+.break2{
+    margin-top: 450px;
+    width: 100%;
+    height: 10px;
+    background-color: rgb(78, 75, 75);
+}
+
+.b2h1{
+    margin-top: 125px;
+    margin-left: 40px;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif  
+}
+.b2h2
+{
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+
+}
+.break3{
+    float: left;
+    margin-top: 0px;
+    width: 100%;
+    height: 10px;
+    background-color: rgb(78, 75, 75);
+}
+.body3{
+    display: flex;
+    width: 100%;
+    height: 450px;
+    background-color: black;
+}
+.b31{
+    
+    width: 50%;
+    height: 450px;
+    background-color: black;
+}
+.b3r{
+
+    width: 50%;
+    height: 450px;
+    background-color: black;
+}
+.b3h1{
+    margin-top: 150px;
+    margin-left: 155px;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif 
+    
+}
+.b3h2
+{
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 160px;
+    font-size: 26px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+
+}
+.b3img{
+    margin-top: 10px;
+    margin-left: 160px;
+}
+.s1h1
+{
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 160px;
+    font-size: 26px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+
+}
+.b4{
+    display: flex;
+    width: 100%;
+    height: 450px;
+    background-color: black;
+}
+.b4l{
+    width: 50%;
+    height: 450px;
+    background-color: black;
+}
+.b4r{
+    width: 50%;
+    height: 450px;
+    background-color: black;
+}
+.b4img{
+    margin-top: 65px;
+    margin-left: 200px;
+
+}
+.b4h1{
+    margin-top: 150px;
+    margin-left: 135px;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif 
+
+}
+.b4h2{
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 140px;
+    font-size: 26px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.s5{
+    float: left;
+   width: 100%;
+   height: 1000px;
+   background-color: black;
+   color: white;
+}
+.s5h1{
+    float: left;
+    margin-top: 65px;
+    margin-left: 375px;
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+.s5cont{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin-top: 40px;
+    margin-left: 331px;
+    width: 754px;
+    height: 485px;
+    
+
+}
+.s5subsection{
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;  
+    height: 65px;
+    width: 100%;
+    background-color: #303030;
+}
+.s5subsection:hover
+{
+    cursor: pointer;
+}
+.s5subsectionleft{
+    padding-top: 17px;
+    padding-left:11px;
+    width: 90%;
+    height: 65px;
+    font-size: 26px;
+
+}
+.s5subsectionright{
+    padding-top: 10px;
+    width: 10%;
+    height: 65px;
+    padding-left:5px;
+    
+
+}
+.s5h3{
+    height: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-top: 5px;
+    margin-left: 250px;
+
+
+}
+.s5h3{
+    margin-top: 70px;
+    margin-left: 385PX;
+    font-size: 19px;
+    float: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.midbar2{
+    float: left;
+    width: 720px;
+    height: 75px;
+    margin-top: 20px;
+    margin-left: 328px;
+   
+}
+.midbar2 input[type=text]{
+    border: none;
+    float: left;
+    width:71%;
+    height:64px;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    color: #737373;
+
+
+}
+.fh{
+    margin-top: 65px;
+    margin-left: 300px;
+    font-size: 16px;
+}
+.fcont{
+    margin-left: 300px;
+    margin-top: 25px;
+    width: 900px;
+    height: 291px;
+    
+}
+.fcontin{
+    
+    width: 900px;
+    height: 128px;
+    display: flex;
+    
+
+}
+.fcolom{
+    margin-top: 20px;
+    width: 25%;
+
+}
+li{
+    list-style: none;
+    margin-top: 10px;
+    font-size: 13px;
+}
+.fselect select{
+
+    
+    margin-top: 30px;
+    padding-left: 10px;
+    height: 36px;
+    width: 93.2px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.ftext{
+    font-size: 13px;
+    color: #737373;
+    margin-top: 20px;
+}
+
+
